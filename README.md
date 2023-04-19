@@ -1,5 +1,7 @@
 ## This is a forked version of the original repository for citation purposes to make sure that the version of the utilized package for the study has been utilized and correct DOI has been generated. For the original package, the authors, and the current versions of the code, please visit the original repository of the authors."
 
+[![DOI](https://zenodo.org/badge/630019823.svg)](https://zenodo.org/badge/latestdoi/630019823)
+
 # MP2RAGE scripts
 
 - T1 maps estimation using the MP2RAGE sequence
